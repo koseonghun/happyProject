@@ -4,6 +4,8 @@
 	session.setAttribute("MEMBER", memberId);
 %>
 <html>ko
+<html>alan
+
 <head><title>로그인</title></head>
 <body>
 로그인 처리 <br>
